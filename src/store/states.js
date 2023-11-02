@@ -1,0 +1,3 @@
+/** returns object */
+
+export default {}
